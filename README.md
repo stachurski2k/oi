@@ -1,0 +1,3 @@
+# oi
+
+for olimpiada informatyczna
