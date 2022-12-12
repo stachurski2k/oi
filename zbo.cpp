@@ -3,7 +3,6 @@
 //
 #include<iostream>
 #include<bits/stdc++.h>
-#include<fstream>
 ////// to do calc dist betweeen hubs;;;
 using namespace std;
 constexpr int maxN=1e5+7;
